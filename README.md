@@ -1,6 +1,8 @@
 # NFS 2015 Driver Check Bypass
 
-Fixes the "Detected AMD Radeon driver version 0.0. The required driver version is 13.251 or later." error in Need for Speed (2015) on modern AMD GPUs.
+Fixes the "Detected AMD Radeon driver version 0.0" error in Need for Speed (2015) on modern AMD GPUs.
+
+![Error Message](https://raw.githubusercontent.com/pohcode27-tech/NFS2015-DriverFix/refs/heads/main/NFSDriverErrorMsg.png)
 
 ## Problem
 
